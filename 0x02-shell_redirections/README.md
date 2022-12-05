@@ -1,1 +1,1 @@
-script that lists all the files with a .gif extension in the current directory and all its sub-directories
+An acrostic is a poem in which the fisrt letter of each line spells out a word
